@@ -25,3 +25,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <a href='https://i.imgur.com/EHkQN8d.gif'>Link</a>
+<img src='https://i.imgur.com/55vxVhz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
